@@ -1,6 +1,6 @@
-# McdReforged
+# Fabric
 
-与 [BotServer](https://github.com/Minecraft-QQBot/BotServer) 进行对接的 Mcdr 插件。
+与 [BotServer](https://github.com/Minecraft-QQBot/BotServer) 进行对接的 Fabirc mod。
 
 你可以到 [Releases](https://github.com/Minecraft-QQBot/Fabric/releases) 下载最新版本 Fabric 服务器插件。
 
@@ -16,7 +16,7 @@
 {
   "name": "服务器名称",
   "url": "ws://x.x.x.x:xxxx",
-  "token": "令牌",
+  "token": "令牌"
 }
 ```
 
